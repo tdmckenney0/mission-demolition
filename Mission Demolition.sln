@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission Demolition.CSharp", "Mission Demolition.CSharp.csproj", "{7362981E-E11C-1835-A8BE-F2364310D41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7362981E-E11C-1835-A8BE-F2364310D41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7362981E-E11C-1835-A8BE-F2364310D41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7362981E-E11C-1835-A8BE-F2364310D41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7362981E-E11C-1835-A8BE-F2364310D41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
